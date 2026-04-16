@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Best-Flutter-UI-Templates
 
 completely free for everyone. Its build-in Flutter Dart.
@@ -15,5 +14,4 @@ completely free for everyone. Its build-in Flutter Dart.
 
 <img src="assets/introduction_animation.gif" height="300em"><img src="assets/hotel_booking.gif" height="300em"><img src="assets/custom_drawer.gif" height="300em"><img src="assets/fitness_app.gif" height="300em" /> <img src="assets/design_course.gif" height="300em" />
 =======
-# Best-Flutter-UI-Templates
->>>>>>> 2af674d49c6529ef5b61d03c695ce89ce753ce58
+
